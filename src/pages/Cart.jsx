@@ -8,7 +8,7 @@ function Cart() {
   const { cartItems, emptyCart } = useContext(Context);
 
   // get price of item, when it will be in item
-  const totalCost = cartItems.reduce((acc, cartItem) => acc + 5.99, 0);
+  const totalCost = cartItems.reduce((acc, cartItem) => acc + cartItem.price, 0);
   const totalCostDisplay = totalCost.toLocaleString("en-US", { style: "currency", currency: "USD" });
 
   const cartItemsElements = cartItems.map(item => (
