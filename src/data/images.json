@@ -1,0 +1,140 @@
+[
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic1.jpg?raw=true",
+        "id": "1",
+        "isFavorite": false,
+        "price": 5.11
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic2.jpg?raw=true",
+        "id": "2",
+        "isFavorite": false,
+        "price": 5.99
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic3.jpg?raw=true",
+        "id": "3",
+        "isFavorite": false,
+        "price": 6
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic4.jpg?raw=true",
+        "id": "4",
+        "isFavorite": false,
+        "price": 7.89
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic5.jpg?raw=true",
+        "id": "5",
+        "isFavorite": false,
+        "price": 2
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic6.jpg?raw=true",
+        "id": "6",
+        "isFavorite": false,
+        "price": 4.55
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic7.jpg?raw=true",
+        "id": "7",
+        "isFavorite": false,
+        "price": 5.30
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic8.jpg?raw=true",
+        "id": "8",
+        "isFavorite": false,
+        "price": 9.99
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic9.jpg?raw=true",
+        "id": "9",
+        "isFavorite": false,
+        "price": 10
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic10.jpg?raw=true",
+        "id": "10",
+        "isFavorite": false,
+        "price": 3.25
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic11.jpg?raw=true",
+        "id": "11",
+        "isFavorite": false,
+        "price": 4.75
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic12.jpg?raw=true",
+        "id": "12",
+        "isFavorite": false,
+        "price": 5.99
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic13.jpg?raw=true",
+        "id": "13",
+        "isFavorite": false,
+        "price": 5.99
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic14.jpg?raw=true",
+        "id": "14",
+        "isFavorite": false,
+        "price": 5.99
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic15.jpg?raw=true",
+        "id": "15",
+        "isFavorite": false,
+        "price": 3.99
+    },
+    {
+        "url": "https://github.com/bobziroll/pic-some-app/blob/master/src/data/pic16.jpg?raw=true",
+        "id": "16",
+        "isFavorite": false,
+        "price": 4.99
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic17.jpg?raw=true",
+        "id": "17",
+        "isFavorite": false,
+        "price": 5.89
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic18.jpg?raw=true",
+        "id": "18",
+        "isFavorite": false,
+        "price": 4.75
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic19.jpg?raw=true",
+        "id": "19",
+        "isFavorite": false,
+        "price": 10
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic20.jpg?raw=true",
+        "id": "20",
+        "isFavorite": false,
+        "price": 5.99
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic21.jpg?raw=true",
+        "id": "21",
+        "isFavorite": false,
+        "price": 5.99
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic22.jpg?raw=true",
+        "id": "22",
+        "isFavorite": false,
+        "price": 5.50
+    },
+    {
+        "url": "https://github.com/tereshka/pic-some-app/blob/master/src/data/pic23.jpg?raw=true",
+        "id": "23",
+        "isFavorite": false,
+        "price": 3.25
+    }
+]
